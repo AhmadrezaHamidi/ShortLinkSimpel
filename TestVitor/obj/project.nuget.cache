@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "J2ea9Z1bSy8SvbTYyRr3ESbmrp/zDF9M3rpcIGPaAZipB9XKrLmBIqDSwBLD+pFLK9Z021d8vsNb1kY7zI0yag==",
+  "success": true,
+  "projectFilePath": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/TestVitor/TestVitor.csproj",
+  "expectedPackageFiles": [
+    "/Users/ahmadhfr/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{F3D97B5A-3C1B-4DCE-848D-45DFB5CFAB37}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestVitor/Class1.cs">
+    <Files>
+      <File FileName="Visitor/Class1.cs" Line="41" Column="22" />
+      <File FileName="Visitor/IFileSysyemVisitor.cs" Line="62" Column="1" />
+      <File FileName="TestVitor/Class1.cs" Line="5" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="01091402" expanded="True" selected="True">
+            <Node name="TestVitor" expanded="True" />
+            <Node name="Visitor" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="01091402" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TestVitor FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.TestProject1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

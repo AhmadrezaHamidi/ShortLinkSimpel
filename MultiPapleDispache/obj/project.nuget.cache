@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pVWlWMrsNJUl9b0SMTtInMBNkg+tbirVIAwgmh/iMJ7JAOj2HpoBSovd1pF+Q5Ceym51BYGf+q0Cs66v3OwS0g==",
+  "success": true,
+  "projectFilePath": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/MultiPapleDispache/MultiPapleDispache.csproj",
+  "expectedPackageFiles": [
+    "/Users/ahmadhfr/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.11/microsoft.netcore.app.host.osx-x64.6.0.11.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

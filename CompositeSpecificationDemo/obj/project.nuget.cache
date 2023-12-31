@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oZpR+5Lda98rLCgy8yD+twFwF1bBeQhM2iNV+n13JVausordwGW105BH1NecFZk/CQvCXlcr+b59pjKqaJjlRw==",
+  "success": true,
+  "projectFilePath": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/CompositeSpecificationDemo/CompositeSpecificationDemo.csproj",
+  "expectedPackageFiles": [
+    "/Users/ahmadhfr/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
