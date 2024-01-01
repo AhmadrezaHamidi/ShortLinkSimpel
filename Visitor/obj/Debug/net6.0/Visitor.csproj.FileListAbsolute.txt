@@ -1,0 +1,12 @@
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/Visitor/bin/Debug/net6.0/Visitor.deps.json
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/Visitor/bin/Debug/net6.0/Visitor.dll
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/Visitor/bin/Debug/net6.0/Visitor.pdb
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/Visitor/obj/Debug/net6.0/Visitor.csproj.AssemblyReference.cache
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/Visitor/obj/Debug/net6.0/Visitor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/Visitor/obj/Debug/net6.0/Visitor.AssemblyInfoInputs.cache
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/Visitor/obj/Debug/net6.0/Visitor.AssemblyInfo.cs
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/Visitor/obj/Debug/net6.0/Visitor.csproj.CoreCompileInputs.cache
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/Visitor/obj/Debug/net6.0/Visitor.dll
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/Visitor/obj/Debug/net6.0/refint/Visitor.dll
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/Visitor/obj/Debug/net6.0/Visitor.pdb
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/Visitor/obj/Debug/net6.0/ref/Visitor.dll

@@ -1,0 +1,15 @@
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/MultiPapleDispache/bin/Debug/net6.0/MultiPapleDispache
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/MultiPapleDispache/bin/Debug/net6.0/MultiPapleDispache.deps.json
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/MultiPapleDispache/bin/Debug/net6.0/MultiPapleDispache.runtimeconfig.json
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/MultiPapleDispache/bin/Debug/net6.0/MultiPapleDispache.dll
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/MultiPapleDispache/bin/Debug/net6.0/MultiPapleDispache.pdb
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/MultiPapleDispache/obj/Debug/net6.0/MultiPapleDispache.csproj.AssemblyReference.cache
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/MultiPapleDispache/obj/Debug/net6.0/MultiPapleDispache.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/MultiPapleDispache/obj/Debug/net6.0/MultiPapleDispache.AssemblyInfoInputs.cache
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/MultiPapleDispache/obj/Debug/net6.0/MultiPapleDispache.AssemblyInfo.cs
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/MultiPapleDispache/obj/Debug/net6.0/MultiPapleDispache.csproj.CoreCompileInputs.cache
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/MultiPapleDispache/obj/Debug/net6.0/MultiPapleDispache.dll
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/MultiPapleDispache/obj/Debug/net6.0/refint/MultiPapleDispache.dll
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/MultiPapleDispache/obj/Debug/net6.0/MultiPapleDispache.pdb
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/MultiPapleDispache/obj/Debug/net6.0/MultiPapleDispache.genruntimeconfig.cache
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/MultiPapleDispache/obj/Debug/net6.0/ref/MultiPapleDispache.dll
