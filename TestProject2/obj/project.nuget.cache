@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ua8AqnvsazY8hsUmSyLrESg2M4SE7Z9qK1MmYTBFMBGOe0cvdle2+4L80c1utqejk4di6NhlvWWtETXLz+WzOg==",
+  "dgSpecHash": "j2F8PWGVeFMRoanZiEgX7p0RZq+//PvEkglB7umclHC9Vz8ZIWdfOp9WAq5LFSFbzY+abBdy2J6cOgV/WF9fNg==",
   "success": true,
   "projectFilePath": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/TestProject2/TestProject2.csproj",
   "expectedPackageFiles": [
@@ -95,9 +95,7 @@
     "/Users/ahmadhfr/.nuget/packages/xunit.core/2.4.1/xunit.core.2.4.1.nupkg.sha512",
     "/Users/ahmadhfr/.nuget/packages/xunit.extensibility.core/2.4.1/xunit.extensibility.core.2.4.1.nupkg.sha512",
     "/Users/ahmadhfr/.nuget/packages/xunit.extensibility.execution/2.4.1/xunit.extensibility.execution.2.4.1.nupkg.sha512",
-    "/Users/ahmadhfr/.nuget/packages/xunit.runner.visualstudio/2.4.3/xunit.runner.visualstudio.2.4.3.nupkg.sha512",
-    "/Users/ahmadhfr/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
-    "/Users/ahmadhfr/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+    "/Users/ahmadhfr/.nuget/packages/xunit.runner.visualstudio/2.4.3/xunit.runner.visualstudio.2.4.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -48,18 +48,17 @@ public class MaxFileSysyemVisitor : IFileSysyemVisitor
     }
 }
 
-public class Test
-
-{
-    var file = new File(29);
-    var file2 = new File(40);
-    var file3 = new File(550);
-    var file -
-
-    var root = new Directory(new List<File>().Add(File));
-    var root2 = new Directory(new List<File>()
-        .Add(file2));
-
-
-
-}
+// public class Test
+//
+// {
+//     var file = new File(29);
+//     var file2 = new File(40);
+//     var file3 = new File(550);
+//     var file -
+//
+//     var root = new Directory(new List<File>().Add(File));
+//     var root2 = new Directory(new List<File>()
+//         .Add(file2));
+//
+//         
+// }
