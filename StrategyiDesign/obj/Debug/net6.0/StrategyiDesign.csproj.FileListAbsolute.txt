@@ -1,0 +1,12 @@
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/StrategyiDesign/bin/Debug/net6.0/StrategyiDesign.deps.json
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/StrategyiDesign/bin/Debug/net6.0/StrategyiDesign.dll
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/StrategyiDesign/bin/Debug/net6.0/StrategyiDesign.pdb
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/StrategyiDesign/obj/Debug/net6.0/StrategyiDesign.csproj.AssemblyReference.cache
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/StrategyiDesign/obj/Debug/net6.0/StrategyiDesign.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/StrategyiDesign/obj/Debug/net6.0/StrategyiDesign.AssemblyInfoInputs.cache
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/StrategyiDesign/obj/Debug/net6.0/StrategyiDesign.AssemblyInfo.cs
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/StrategyiDesign/obj/Debug/net6.0/StrategyiDesign.csproj.CoreCompileInputs.cache
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/StrategyiDesign/obj/Debug/net6.0/StrategyiDesign.dll
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/StrategyiDesign/obj/Debug/net6.0/refint/StrategyiDesign.dll
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/StrategyiDesign/obj/Debug/net6.0/StrategyiDesign.pdb
+/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/StrategyiDesign/obj/Debug/net6.0/ref/StrategyiDesign.dll
