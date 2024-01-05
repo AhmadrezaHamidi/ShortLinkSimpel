@@ -2,6 +2,10 @@
 
 public class FruiteBaskate
 {
+    public FruiteBaskate()
+    {
+    }
+
     public string[] Furites = new[] { "Apple", "Banana" };
 
     public Iterator<string> CreateItertor()
