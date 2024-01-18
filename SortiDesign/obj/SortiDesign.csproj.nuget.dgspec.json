@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/SortiDesign/SortiDesign.csproj": {}
+    "/Users/ahmadhfr/Desktop/work/DisganPatterns/ShortLinkSimpel/SortiDesign/SortiDesign.csproj": {}
   },
   "projects": {
-    "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/SortiDesign/SortiDesign.csproj": {
+    "/Users/ahmadhfr/Desktop/work/DisganPatterns/ShortLinkSimpel/SortiDesign/SortiDesign.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/SortiDesign/SortiDesign.csproj",
+        "projectUniqueName": "/Users/ahmadhfr/Desktop/work/DisganPatterns/ShortLinkSimpel/SortiDesign/SortiDesign.csproj",
         "projectName": "SortiDesign",
-        "projectPath": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/SortiDesign/SortiDesign.csproj",
+        "projectPath": "/Users/ahmadhfr/Desktop/work/DisganPatterns/ShortLinkSimpel/SortiDesign/SortiDesign.csproj",
         "packagesPath": "/Users/ahmadhfr/.nuget/packages/",
-        "outputPath": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/SortiDesign/obj/",
+        "outputPath": "/Users/ahmadhfr/Desktop/work/DisganPatterns/ShortLinkSimpel/SortiDesign/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ahmadhfr/.nuget/NuGet/NuGet.Config"
@@ -48,12 +48,22 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

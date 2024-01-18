@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "z0u/umBuAdCMVOpoxMVDlf73lj07u/qsEJTVyym7Jgr6N18c9IW1IETBVxt/4A4mJ1V/QERn12we1YcPPJ2KDA==",
+  "dgSpecHash": "5aREKwoW8CraBYocvGOme452BLcReAEBV7FCGbwu/d41xYuOav+EOn2vl5AeiF1c+EcF/RuWPVF1fGWUwxRpBQ==",
   "success": true,
-  "projectFilePath": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/SortiDesign/SortiDesign.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/ahmadhfr/Desktop/work/DisganPatterns/ShortLinkSimpel/SortiDesign/SortiDesign.csproj",
+  "expectedPackageFiles": [
+    "/Users/ahmadhfr/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

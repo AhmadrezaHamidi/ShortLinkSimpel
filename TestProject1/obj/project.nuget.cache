@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CoXcTyHnK9S0y16kJuK/tiOYZRzBkNV2JU8XhazZqHVxHiB5WSAJ2ZpVlEttYANOL7twzQ++NYnE1AUDTS0cYA==",
+  "dgSpecHash": "RM1CWj9WKNKYuE9jFrAX8jul2cz2qmVW93vzvnKV/GxEqvxNh1WoGW7FT/+mWCt+dFBkRbBRNRCCyKpOBW4B6A==",
   "success": true,
-  "projectFilePath": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/TestProject1/TestProject1.csproj",
+  "projectFilePath": "/Users/ahmadhfr/Desktop/work/DisganPatterns/ShortLinkSimpel/TestProject1/TestProject1.csproj",
   "expectedPackageFiles": [
     "/Users/ahmadhfr/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
     "/Users/ahmadhfr/.nuget/packages/microsoft.codecoverage/17.1.0/microsoft.codecoverage.17.1.0.nupkg.sha512",
@@ -95,7 +95,9 @@
     "/Users/ahmadhfr/.nuget/packages/xunit.core/2.4.1/xunit.core.2.4.1.nupkg.sha512",
     "/Users/ahmadhfr/.nuget/packages/xunit.extensibility.core/2.4.1/xunit.extensibility.core.2.4.1.nupkg.sha512",
     "/Users/ahmadhfr/.nuget/packages/xunit.extensibility.execution/2.4.1/xunit.extensibility.execution.2.4.1.nupkg.sha512",
-    "/Users/ahmadhfr/.nuget/packages/xunit.runner.visualstudio/2.4.3/xunit.runner.visualstudio.2.4.3.nupkg.sha512"
+    "/Users/ahmadhfr/.nuget/packages/xunit.runner.visualstudio/2.4.3/xunit.runner.visualstudio.2.4.3.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
   ],
   "logs": []
 }

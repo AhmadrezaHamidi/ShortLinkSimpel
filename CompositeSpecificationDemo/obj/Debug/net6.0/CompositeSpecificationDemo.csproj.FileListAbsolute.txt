@@ -1,0 +1,12 @@
+/Users/ahmadhfr/Desktop/work/DisganPatterns/ShortLinkSimpel/CompositeSpecificationDemo/bin/Debug/net6.0/CompositeSpecificationDemo.deps.json
+/Users/ahmadhfr/Desktop/work/DisganPatterns/ShortLinkSimpel/CompositeSpecificationDemo/bin/Debug/net6.0/CompositeSpecificationDemo.dll
+/Users/ahmadhfr/Desktop/work/DisganPatterns/ShortLinkSimpel/CompositeSpecificationDemo/bin/Debug/net6.0/CompositeSpecificationDemo.pdb
+/Users/ahmadhfr/Desktop/work/DisganPatterns/ShortLinkSimpel/CompositeSpecificationDemo/obj/Debug/net6.0/CompositeSpecificationDemo.csproj.AssemblyReference.cache
+/Users/ahmadhfr/Desktop/work/DisganPatterns/ShortLinkSimpel/CompositeSpecificationDemo/obj/Debug/net6.0/CompositeSpecificationDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadhfr/Desktop/work/DisganPatterns/ShortLinkSimpel/CompositeSpecificationDemo/obj/Debug/net6.0/CompositeSpecificationDemo.AssemblyInfoInputs.cache
+/Users/ahmadhfr/Desktop/work/DisganPatterns/ShortLinkSimpel/CompositeSpecificationDemo/obj/Debug/net6.0/CompositeSpecificationDemo.AssemblyInfo.cs
+/Users/ahmadhfr/Desktop/work/DisganPatterns/ShortLinkSimpel/CompositeSpecificationDemo/obj/Debug/net6.0/CompositeSpecificationDemo.csproj.CoreCompileInputs.cache
+/Users/ahmadhfr/Desktop/work/DisganPatterns/ShortLinkSimpel/CompositeSpecificationDemo/obj/Debug/net6.0/CompositeSpecificationDemo.dll
+/Users/ahmadhfr/Desktop/work/DisganPatterns/ShortLinkSimpel/CompositeSpecificationDemo/obj/Debug/net6.0/refint/CompositeSpecificationDemo.dll
+/Users/ahmadhfr/Desktop/work/DisganPatterns/ShortLinkSimpel/CompositeSpecificationDemo/obj/Debug/net6.0/CompositeSpecificationDemo.pdb
+/Users/ahmadhfr/Desktop/work/DisganPatterns/ShortLinkSimpel/CompositeSpecificationDemo/obj/Debug/net6.0/ref/CompositeSpecificationDemo.dll

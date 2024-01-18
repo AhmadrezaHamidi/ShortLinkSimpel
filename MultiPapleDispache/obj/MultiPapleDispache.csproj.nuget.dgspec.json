@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/MultiPapleDispache/MultiPapleDispache.csproj": {}
+    "/Users/ahmadhfr/Desktop/work/DisganPatterns/ShortLinkSimpel/MultiPapleDispache/MultiPapleDispache.csproj": {}
   },
   "projects": {
-    "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/MultiPapleDispache/MultiPapleDispache.csproj": {
+    "/Users/ahmadhfr/Desktop/work/DisganPatterns/ShortLinkSimpel/MultiPapleDispache/MultiPapleDispache.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/MultiPapleDispache/MultiPapleDispache.csproj",
+        "projectUniqueName": "/Users/ahmadhfr/Desktop/work/DisganPatterns/ShortLinkSimpel/MultiPapleDispache/MultiPapleDispache.csproj",
         "projectName": "MultiPapleDispache",
-        "projectPath": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/MultiPapleDispache/MultiPapleDispache.csproj",
+        "projectPath": "/Users/ahmadhfr/Desktop/work/DisganPatterns/ShortLinkSimpel/MultiPapleDispache/MultiPapleDispache.csproj",
         "packagesPath": "/Users/ahmadhfr/.nuget/packages/",
-        "outputPath": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/MultiPapleDispache/obj/",
+        "outputPath": "/Users/ahmadhfr/Desktop/work/DisganPatterns/ShortLinkSimpel/MultiPapleDispache/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ahmadhfr/.nuget/NuGet/NuGet.Config"
@@ -48,12 +48,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[6.0.11, 6.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.11, 6.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/7.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

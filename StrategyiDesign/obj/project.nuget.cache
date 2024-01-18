@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "F/B6RYYBpydo46Qmbb9UP2uxbcraQtVJxmhvLkc3zxREDGySztFXcIaVDaewUm54rCqsLOaYvjbZfRQCiP5bow==",
+  "dgSpecHash": "L7sQWzifdON6ITyBwjEP8VFco4oh64E+rk+7mdpO1w8+ym5Gbvo4IcKqypUfdBhiOHccTdRe1atkANIYYABR5A==",
   "success": true,
-  "projectFilePath": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/StrategyiDesign/StrategyiDesign.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/ahmadhfr/Desktop/work/DisganPatterns/ShortLinkSimpel/StrategyiDesign/StrategyiDesign.csproj",
+  "expectedPackageFiles": [
+    "/Users/ahmadhfr/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

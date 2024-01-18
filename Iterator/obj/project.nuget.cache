@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "PLVEoGAkEXiE+yoXcSczVksIPlnXF3317hnUducE4C2uORq1291oHn5pp+krJNzS0RBV+qnnRdU2rwm/pGgl+w==",
+  "dgSpecHash": "A0O1SKakfXw+Ajr8YBCZXHsMcTIwe1PRODeFAvDqmbM4wsGJFb0O8T8dW5l4MgHbIEqVji97KlmwazKXyazxXA==",
   "success": true,
-  "projectFilePath": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/Iterator/Iterator.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/ahmadhfr/Desktop/work/DisganPatterns/ShortLinkSimpel/Iterator/Iterator.csproj",
+  "expectedPackageFiles": [
+    "/Users/ahmadhfr/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

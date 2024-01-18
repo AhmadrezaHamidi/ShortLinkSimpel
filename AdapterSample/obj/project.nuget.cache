@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "zhhnX4125GySNFXgxhvI6M+Eam1EsTvcEliNkZOwRt0zbfjebf8W/vUp6X2aq0VGbnpU1dXhkvAmeOy1qwO/5w==",
+  "dgSpecHash": "a9ehQaSYKKBAa4MFIAbTerRKOVYdTGcyoWEmmC0vWQ0iQB/GJGLVHaKdFl9WwIVsdR2W2O17DbkB2YBKIGXZdA==",
   "success": true,
-  "projectFilePath": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/AdapterSample/AdapterSample.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/ahmadhfr/Desktop/work/DisganPatterns/ShortLinkSimpel/AdapterSample/AdapterSample.csproj",
+  "expectedPackageFiles": [
+    "/Users/ahmadhfr/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

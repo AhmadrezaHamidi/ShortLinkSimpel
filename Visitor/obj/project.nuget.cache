@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "jeWKw35Gek4KE170y9jj2n0WdLN+iMNrR/457CEAA2yFLleOpSd/1VgBy22QKPNf23pRBUPd6ztaEVZakHZI+A==",
+  "dgSpecHash": "WfsciJ/p8u0udNCUHyp3gxB7v+UoY7OkugIrcRgCbQBLFrexBAd2QF5fJWCdlaYcWeJ+Dmk4ozA8QX02Xj9sbw==",
   "success": true,
-  "projectFilePath": "/Users/ahmadhfr/Desktop/Disign Pstterns /peractis/01091402/Visitor/Visitor.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/ahmadhfr/Desktop/work/DisganPatterns/ShortLinkSimpel/Visitor/Visitor.csproj",
+  "expectedPackageFiles": [
+    "/Users/ahmadhfr/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
+    "/Users/ahmadhfr/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
